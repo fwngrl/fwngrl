@@ -4,7 +4,7 @@ description: BApp Store
 
 # Install Hackvertor
 
-Open Burp Suite
+Open **Burp Suite**
 
 Select **Extensions** in the application field tabs
 
