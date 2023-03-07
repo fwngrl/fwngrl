@@ -10,5 +10,5 @@ Hackvertor is a tag based URL conversion tool
 
 ###
 
-[install-hackvertor.md](install-hackvertor.md "mention")HTML5&#x20;
+[install-hackvertor.md](install-hackvertor.md "mention")&#x20;
 
